@@ -1,0 +1,16 @@
+#Setting SkyBlockUI
+
+# Message Create Island.
+msg-create: "§aSucces! §fYour Have Make Island!"
+
+# Message Teleport Your Island Home.
+msg-tp-home: "§aTeleport Your Island Home"
+
+# Title Teleport Your Island Home.
+title-tp: "§aWelcome\n§fIn Your Island"
+
+# Title UI 
+title-ui: "§aSkyBlockUI"
+
+# Content UI
+content-ui: "§eSelect A SkyBlockUI Menu!"
