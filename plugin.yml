@@ -1,0 +1,9 @@
+name: SkyBlockUI_ByDhanSkuyy
+main: SkyBlock\SkyBlockUI
+api: [3.3.0, 3.0.0, 4.0.0]
+version: 6.6.6
+author: DhanSkuyy 
+
+commands:
+ sbui:
+  description: "§oSkyBlockUI By DhanSkuyy"
