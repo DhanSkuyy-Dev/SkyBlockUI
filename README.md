@@ -1,6 +1,9 @@
 # SkyBlockUI
 This Is SkyBlockUI Plugin By DhanSkuyy
 
+# Commands
+/sbui - SkyBlockUI By DhanSkuyy
+
 # Depend Plugin SkyBlockUI
 » SkyBlock : https://poggit.pmmp.io/p/Skyblock
 
